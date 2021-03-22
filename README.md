@@ -1,6 +1,6 @@
 ## AI4D Swahili News Classification Challenge
 
-#PROBLEM STATEMENT
+# PROBLEM STATEMENT
 
 Kiswahili is a lingua franca spoken by 100-150 million people across East Africa. It is an official language in the DRC, Kenya, Tanzania, and Uganda; in Tanzania it is a first language for most people and the official language of instruction in all schools, while in other countries it is a common second language. News in Kiswahili is an important part of the media sphere in East Africa.
 
