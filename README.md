@@ -1,6 +1,6 @@
 # CMU-Africa: Fighting Fire with Data by CMU-Africa Data Science Club
 
-This is a private hackathon open to CMU-Africa participants. If you are a student in CMU-Africa and would like to participate, contact Sheila Mbadi.
+This is was a private hackathon open to CMU-Africa participants. 
 
 ## PROBLEM STATEMENT
 Each year, thousands of fires blaze across the African continent. Some are natural occurrences, part of a ‘fire cycle’ that can actually benefit some dryland ecosystems. Many are started intentionally, used to clear land or to prepare fields for planting. And some are wildfires, which can rage over large areas and cause huge amounts of damage. Whatever the cause, fires pour vast amounts of CO2 into the atmosphere, along with smoke that degrades air quality for those living downwind.
