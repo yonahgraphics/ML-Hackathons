@@ -7,6 +7,6 @@ Each year, thousands of fires blaze across the African continent. Some are natur
 
 Figuring out the dynamics that influence where and when these fires occur can help us to better understand their effects. And predicting how these dynamics will play out in the future, under different climatic conditions, could prove extremely useful. For this challenge, the goal is to do exactly that. We’ve aggregated data on burned areas across ZImbabwe for each month since 2001. You’ll be given the burn area data up to the end of 2013, along with some additional information (such as rainfall, temperature, land cover etc) that extends into the test period. The challenge is to build a model capable of predicting the burned area in different locations over the 2014 to 2016 test period based on only this information.
 
+### Please note that some of the data files were not uploaded as they exceeded the maximum allowed size by Github. Find the all data here: https://zindi.africa/hackathons/cmu-africa-fighting-fire-with-data/data
 
-https://zindi.africa/hackathons/cmu-africa-fighting-fire-with-data/data
 For a full list of the hackthons and my positions, please follow this link: https://zindi.africa/users/yonahgraphics/competitions
