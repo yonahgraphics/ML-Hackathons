@@ -20,4 +20,7 @@ The AIMS Data Science Hackathon is a completely virtual hackathon. Students can 
 
 Students will be challenged to build a machine learning model to solve a real world problem that affects Africa. The challenge will be accessible to beginners, but students will need some experience programming in R or Python.
 
+
+### Please note that some of the data files may not have been uploaded as they exceeded the maximum allowed size by Github. If that's the case, find the all data here: https://zindi.africa/hackathons/aims-data-science-hackathon/data
+
 For a full list of the hackthons and my positions, please follow this link:https://zindi.africa/users/yonahgraphics/competitions
